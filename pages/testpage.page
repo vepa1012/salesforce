@@ -4,7 +4,6 @@
   This is your new Page
 
     <apex:form >
-   <!-- comment -->
     </apex:form>
 
 </apex:page>
