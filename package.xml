@@ -25,6 +25,10 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>Contact</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>Opportunity</members>
         <name>CustomObject</name>
     </types>
@@ -73,32 +77,8 @@
         <name>PermissionSet</name>
     </types>
     <types>
-        <members>Platform_Plan__c.New_Platform_Contact</members>
-        <name>QuickAction</name>
-    </types>
-    <types>
-        <members>Platform_Plan__c.New_Platform_Member</members>
-        <name>QuickAction</name>
-    </types>
-    <types>
-        <members>Platform_Plan__c.New_Platfrom_Plan_Item</members>
-        <name>QuickAction</name>
-    </types>
-    <types>
         <members>*</members>
         <name>StaticResource</name>
-    </types>
-    <types>
-        <members>Contract</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>Opportunity</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>Quote</members>
-        <name>Workflow</name>
     </types>
     <version>33.0</version>
 </Package>
